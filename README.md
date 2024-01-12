@@ -1,9 +1,9 @@
 # projetGl
 
-After cloning :
-1- put the gl images folder on your desktop(if need be change the path in the projets images to your desired path)
-2- import the database in your php myadmin 
-3- go to connect.java and change the link to your database as well as the username and the password(root by default)
-4- you can find the username and password in the user table (on the db imported on step 2)
-5- run the login.java 
-6- Enjoy! :)
+Après le clonage :
+1-Placez le dossier des images GL sur votre bureau (si nécessaire, modifiez le chemin dans les images du projet selon votre chemin souhaité).
+2-Importez la base de données dans votre phpMyAdmin.
+3-Allez dans connect.java et modifiez le lien vers votre base de données ainsi que le nom d'utilisateur et le mot de passe (root par défaut).
+4-Vous pouvez trouver le nom d'utilisateur et le mot de passe dans la table utilisateur (sur la base de données importée à l'étape 2).
+5-Exécutez login.java.
+6-Amusez-vous ! :)
